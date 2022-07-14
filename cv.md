@@ -4,7 +4,7 @@
 ___
 
 ## Contact:
-> **tel:** 8-909-219-98-02
+>**tel:** 8-909-219-98-02
 **e-mail:** multi5@rambler.ru
 **telegram:** @AlexRKV
 **github** : [@AlexRKV](https://github.com/AlexRKV)
@@ -18,7 +18,7 @@ ___
 > I am 37 years old. My goal at this stage of my life is programming! I will do my best to realize myself in this area.
 > I started learning programming on my own. The volume of information is large, it was difficult to select the necessary information from all this flow, but gradually, in my head, I began to put everything on the shelves and you understand that everything is still ahead. And I really like it :)
 
-> **Basic knowledge:** JS, html, css, scss, git, jest, node, figma, bem.**
+> **Basic knowledge:** JS, html, css, scss, git, jest, node, figma, bem.
 >**Knowledge of English**: A2 
 
 ___
